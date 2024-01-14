@@ -1,7 +1,6 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This is my very own shooter game that I made using JavaFX and animation.
+Feel free to play it and check out the code!
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Dinosaur Game
