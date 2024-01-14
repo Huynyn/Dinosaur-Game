@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dinosaur
+comment1.params=
+comment1.target=Dinosaur()
+comment2.params=img_AllDinoImages\ byt_displayIndex
+comment2.target=Dinosaur(javafx.scene.image.Image[],\ byte)
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=short\ move()
+comment5.params=
+comment5.target=javafx.scene.image.Image\ animate()
+comment6.params=shtMinHitX\ shtMaxHitX
+comment6.target=boolean\ checkCollision(short,\ short)
+comment7.params=
+comment7.target=byte\ getDisplayIndex()
+numComments=8

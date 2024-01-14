@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=G
+comment0.text=\r\n\ Inherits\ javaFx\ application\ class.\ This\ is\ basically\ the\ window\ of\ the\ application\ and\ it\ will\ display\ and\ give\ functionality\ to\ the\ scenes\ in\ the\ program\ --\ the\ sole\ \r\n\ functionality\ \ this\ class\ is\ used\ for.\r\n\ \r\n\r\n\ @author\ (Huy\ Nguyen)\r\n\ @version\ (Jan\ 9\ 2024)\r\n
+comment1.params=
+comment1.target=void\ test()
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ switchPane()
+numComments=4

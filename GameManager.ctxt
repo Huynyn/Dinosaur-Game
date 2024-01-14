@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=strFolderPath\ bytLength
+comment10.target=javafx.scene.image.Image[]\ PopulateImageArray(java.lang.String,\ byte)
+comment11.params=strFolderPath\ bytLength\ bytSize
+comment11.target=javafx.scene.image.Image[]\ PopulateImageArray(java.lang.String,\ byte,\ byte)
+comment2.params=
+comment2.target=void\ Frames()
+comment3.params=lngCurrentTime
+comment3.target=void\ handle(long)
+comment4.params=bytWaveNum
+comment4.target=void\ spawnWave(byte)
+comment5.params=shtPositionX
+comment5.target=void\ shoot(short)
+comment6.params=
+comment6.target=void\ pause()
+comment7.params=
+comment7.target=void\ resume()
+comment8.params=
+comment8.target=void\ reset()
+comment9.params=strText\ bolShowRules
+comment9.target=void\ GameOver(java.lang.String,\ boolean)
+numComments=12

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RedDinosaur
+comment1.params=img_AllDinosaurs\ byt_displayIndex
+comment1.target=RedDinosaur(javafx.scene.image.Image[],\ byte)
+numComments=2

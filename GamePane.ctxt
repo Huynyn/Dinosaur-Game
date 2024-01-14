@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GamePane
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DefaultPane\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GamePane()
+comment2.params=strScore
+comment2.target=void\ setScore(java.lang.String)
+comment3.params=
+comment3.target=void\ showLosingScreen()
+numComments=4

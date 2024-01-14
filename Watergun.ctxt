@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Watergun
+comment1.params=
+comment1.target=Watergun()
+comment2.params=bytCurrentImageIndex\ img_WatergunImages\ bytWeaponPostionalValue
+comment2.target=Watergun(byte,\ javafx.scene.image.Image[],\ byte)
+comment3.params=dblMouseX
+comment3.target=javafx.scene.image.Image\ changeWeaponModel(double)
+numComments=4
