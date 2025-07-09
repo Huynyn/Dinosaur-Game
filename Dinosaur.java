@@ -3,7 +3,7 @@
  * Abstract class containing properties of dinosaurs.  Children class will change certain variables in order to have different movement patterns and 
  * point value.  Class manages dinosaur movement, animation, collision, and spawning.  Dinosaur movement is dictated by random number generators wherein certain
  * numbers will result in certain changes or stagnation in movement  
- 
+ this is a super change
  * @author (Huy Nguyen)
  * @version (2023-06-07)
  */
